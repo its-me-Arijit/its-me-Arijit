@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/its-me-Arijit/its-me-Arijit/output/snake.svg" alt="Snake animation" />
-
-###
