@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Arijit Ghosh and I'm a Developer.</h1>
+<h1 align="center">Hi👋! My name is Arijit Ghosh and I'm a Developer.</h1>
 
 ###
 
